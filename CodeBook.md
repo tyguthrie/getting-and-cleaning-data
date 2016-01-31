@@ -58,7 +58,7 @@ time domain body gyroscope magnitude mean | tBodyGyroMag-mean() | mean by subjec
 time domain body gyroscope magnitude standard deviation | tBodyGyroMag-std() | mean by subject/activity
 time domain body gyroscope jerk magnitude mean | tBodyGyroJerkMag-mean() | mean by subject/activity
 time domain body gyroscope jerk magnitude standard deviation | tBodyGyroJerkMag-std() | mean by subject/activity
-frequency domain body accelerometer mean x axis | fBodyAcc-mean()-X mean by subject/activity
+frequency domain body accelerometer mean x axis | fBodyAcc-mean()-X | mean by subject/activity
 frequency domain body accelerometer mean y axis | fBodyAcc-mean()-Y | mean by subject/activity
 frequency domain body accelerometer mean z axis | fBodyAc-mean()c-Z | mean by subject/activity
 frequency domain body accelerometer standard deviation x axis | fBodyAcc-std()-X | mean by subject/activity
